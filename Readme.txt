@@ -1,4 +1,3 @@
-How to run the Online Notes Sharing System Project using PHP and MySQL
 
 1. Download the project zip file
 
